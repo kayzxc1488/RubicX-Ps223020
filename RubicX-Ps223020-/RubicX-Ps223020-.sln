@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicX-Ps223020-", "RubicX-Ps223020-\RubicX-Ps223020-.csproj", "{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{D270A736-F762-4422-A976-EA09D6E76307}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinesLogic", "BusinesLogic", "{53A0616B-0B86-4CD6-95EF-DB793F51BC89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatAccess", "DatAccess", "{0C480975-365C-48AB-96F9-BA77C31DFC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicX-Ps223020-.Core", "RubicX-Ps223020-.Core\RubicX-Ps223020-.Core.csproj", "{B268F12A-7E29-49C4-89AE-240E83C553B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicX-Ps223020-DataAccess", "RubicX-Ps223020-DatAccess\RubicX-Ps223020-DataAccess.csproj", "{23FBACCF-035B-4F31-8CC5-B07B32F65FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubciX-Ps223020-DataAccess.Core", "RubciX-Ps223020-DataAccess.Core\RubciX-Ps223020-DataAccess.Core.csproj", "{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B268F12A-7E29-49C4-89AE-240E83C553B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B268F12A-7E29-49C4-89AE-240E83C553B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B268F12A-7E29-49C4-89AE-240E83C553B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B268F12A-7E29-49C4-89AE-240E83C553B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FBACCF-035B-4F31-8CC5-B07B32F65FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FBACCF-035B-4F31-8CC5-B07B32F65FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FBACCF-035B-4F31-8CC5-B07B32F65FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FBACCF-035B-4F31-8CC5-B07B32F65FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B4BE5A8-D4C0-4EEB-9F67-CB6C3E59562D} = {D270A736-F762-4422-A976-EA09D6E76307}
+		{B268F12A-7E29-49C4-89AE-240E83C553B0} = {D270A736-F762-4422-A976-EA09D6E76307}
+		{23FBACCF-035B-4F31-8CC5-B07B32F65FF9} = {0C480975-365C-48AB-96F9-BA77C31DFC26}
+		{9F16F6F3-BB09-4CC7-BDBD-F0CCF3D21DCA} = {0C480975-365C-48AB-96F9-BA77C31DFC26}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820BBA50-BAF9-4272-BDC5-93EA72DD2F78}
+	EndGlobalSection
+EndGlobal
