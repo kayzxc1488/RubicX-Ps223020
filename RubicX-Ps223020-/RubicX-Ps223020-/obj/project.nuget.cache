@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75T3lAGDXevKTnXO1gu6dnC47uHFAHif/x9Hz3Gwyzv+Myk0u7DfKen0TeFBmlPmZMpJiSKSEXfIbKF8RuN2Cw==",
+  "dgSpecHash": "+iynzTBuF89le9eMIcVuuO6c2QlasF/tKjkUKNpB8rMbk1CqFIv+bKwBjHd/HwbSBR46G9+hp1oB1diJmUMnXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

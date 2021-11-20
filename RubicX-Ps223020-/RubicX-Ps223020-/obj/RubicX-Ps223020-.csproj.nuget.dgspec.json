@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
         "projectName": "RubicX-Ps223020-",
-        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\RubicX-Ps223020-.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\solovev\\RubicX-Ps223020\\RubicX-Ps223020-\\RubicX-Ps223020-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
